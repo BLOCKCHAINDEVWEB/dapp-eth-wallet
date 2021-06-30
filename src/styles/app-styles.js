@@ -46,14 +46,14 @@ export const WalletStyles = styled.main`
   }
   .form-group label {
     display: inline-block;
-    width: 110px;
+    width: 130px;
   }
   .send-address {
     font-size: .8em;
-    width: 300px;
+    width: 350px;
   }
   .send-amount {
-    width: 150px;
+    width: 100px;
   }
   .btn-sub {
     border: 1px solid #C8C8C8;
